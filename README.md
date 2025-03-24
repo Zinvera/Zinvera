@@ -53,13 +53,16 @@ local developer = {
     -- Current focus
     currentFocus = "Developing asynchronous patterns for improved server performance",
     
+    -- Current project
+    currentProject = "Neverlight: Protocol 7",
+    
     -- Contact
     email = "zinverazin@gmail.com"
 }
 
 -- Zinvera's development philosophy
 function developer:philosophy()
-    return "Write clean code. Build immersive worlds."
+    return "Craft clean code. Build immersive worlds."
 end
 ```
 
@@ -166,7 +169,25 @@ end
   </div>
 </div>
 
-<!-- ENHANCED SHOWCASE SECTION -->
+<!-- CURRENT PROJECT HIGHLIGHT -->
+<div align="center">
+  <br>
+  <div style="background: linear-gradient(90deg, rgba(242,108,44,0.2) 0%, rgba(102,0,255,0.2) 100%); padding: 25px; border-radius: 10px; margin: 20px 0;">
+    <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="30px" height="30px" style="vertical-align: middle;">
+    <span style="font-size: 1.5em; font-weight: bold; margin-left: 10px; vertical-align: middle; color: #6600FF;">Currently Working On</span>
+    <br><br>
+    <div style="display: flex; align-items: center; justify-content: center;">
+      <div style="background-color: rgba(0,0,0,0.3); padding: 15px; border-radius: 10px; display: inline-block;">
+        <span style="font-size: 1.5em; font-weight: bold; color: #F26C2C;">Neverlight: Protocol 7</span>
+      </div>
+    </div>
+    <p style="font-size: 1.1em; text-align: center; max-width: 800px; margin: 15px auto 0; color: #f1f1f1;">
+      An ambitious FiveM project featuring cutting-edge script optimization and immersive gameplay mechanics.
+    </p>
+  </div>
+</div>
+
+<!-- ENHANCED DEVELOPMENT FOCUS -->
 <div align="center">
   <br>
   <div style="background: linear-gradient(90deg, rgba(102,0,255,0.2) 0%, rgba(138,43,226,0.2) 100%); padding: 25px; border-radius: 10px; margin: 10px 0;">
@@ -199,7 +220,7 @@ end
 <!-- ENHANCED PHILOSOPHY SECTION -->
 <div align="center" style="margin-top: 40px; margin-bottom: 40px;">
   <div style="background: linear-gradient(90deg, rgba(58,0,136,0.2) 0%, rgba(102,0,255,0.2) 100%); padding: 30px; border-radius: 10px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6600FF&center=true&vCenter=true&random=false&width=600&lines=%22Write+clean+code.+Build+immersive+worlds.%22" alt="Development Philosophy" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6600FF&center=true&vCenter=true&random=false&width=600&lines=Craft+clean+code.+Build+immersive+worlds." alt="Development Philosophy" />
   </div>
 </div>
 
