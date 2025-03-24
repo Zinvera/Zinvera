@@ -1,6 +1,4 @@
-export default function GithubProfileReadme() {
-  // This is the complete GitHub profile README.md content
-  const readmeContent = `<!-- HEADER SECTION -->
+<!-- HEADER SECTION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0088,100:6600ff&height=200&section=header&text=Zinvera&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FiveM%20Development%20Specialist&descAlignY=60&descAlign=50" width="100%" />
 </div>
@@ -10,7 +8,7 @@ export default function GithubProfileReadme() {
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6600FF&center=true&vCenter=true&random=false&width=600&lines=German+FiveM+Developer;Lua+Scripting+Expert;AI+%26+Prompt+Engineering+Enthusiast;Advanced+Metatable+Specialist;High-Performance+Script+Engineer" alt="Typing SVG" /></a>
 </div>
 
-<!-- BANNER WITH TERMINAL ANIMATION -->
+<!-- BANNER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/zinvera/zinvera/main/terminal-gh.gif" width="700px" alt="Terminal GIF">
 </div>
@@ -21,7 +19,7 @@ export default function GithubProfileReadme() {
   About Me
 </h2>
 
-\`\`\`lua
+```lua
 -- Zinvera's Professional Profile
 local developer = {
     name = "Zinvera",
@@ -61,7 +59,8 @@ local developer = {
     -- Contact
     email = "zinverazin@gmail.com"
 }
-\`\`\`
+
+```
 
 <!-- GITHUB STATISTICS WITH ANIMATIONS -->
 <h2>
@@ -72,11 +71,6 @@ local developer = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zinvera&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=6600FF&icon_color=6600FF&text_color=FFFFFF" height="180em" alt="Zinvera's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zinvera&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=6600FF&fire=8A2BE2&currStreakLabel=6600FF" height="180em" alt="Zinvera's GitHub Streak" />
-</div>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zinvera&bg_color=0D1117&color=6600FF&line=8A2BE2&point=FFFFFF&hide_border=true" width="98%" alt="GitHub Activity Graph" />
 </div>
 
 <!-- TECHNOLOGIES SECTION WITH ANIMATIONS -->
@@ -122,6 +116,11 @@ local developer = {
   </table>
 </div>
 
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zinvera&bg_color=0D1117&color=6600FF&line=8A2BE2&point=FFFFFF&hide_border=true" width="98%" alt="GitHub Activity Graph" />
+</div>
+
 <!-- ENHANCED DEVELOPMENT SPECIALTIES WITH IMPROVED DESIGN -->
 <div align="center">
   <br>
@@ -132,28 +131,28 @@ local developer = {
     <div align="center">
       <table>
         <tr>
-          <td align="center" width="200">
+          <td align="center" width="150">
             <div style="background-color: rgba(102, 0, 255, 0.1); border-radius: 10px; padding: 15px; margin: 10px;">
               <img src="https://img.icons8.com/color/48/000000/speed.png" width="40px" height="40px">
               <br><b style="color: #6600FF;">Performance</b>
               <p style="font-size: 0.8em; color: #ccc;">Server optimization & script efficiency</p>
             </div>
           </td>
-          <td align="center" width="200">
+          <td align="center" width="150">
             <div style="background-color: rgba(102, 0, 255, 0.1); border-radius: 10px; padding: 15px; margin: 10px;">
               <img src="https://img.icons8.com/color/48/000000/dashboard.png" width="40px" height="40px">
               <br><b style="color: #6600FF;">UI Systems</b>
               <p style="font-size: 0.8em; color: #ccc;">Immersive & responsive interfaces</p>
             </div>
           </td>
-          <td align="center" width="200">
+          <td align="center" width="150">
             <div style="background-color: rgba(102, 0, 255, 0.1); border-radius: 10px; padding: 15px; margin: 10px;">
               <img src="https://img.icons8.com/color/48/000000/code.png" width="40px" height="40px">
               <br><b style="color: #6600FF;">Architecture</b>
               <p style="font-size: 0.8em; color: #ccc;">Clean & maintainable codebase</p>
             </div>
           </td>
-          <td align="center" width="200">
+          <td align="center" width="150">
             <div style="background-color: rgba(102, 0, 255, 0.1); border-radius: 10px; padding: 15px; margin: 10px;">
               <img src="https://img.icons8.com/color/48/000000/controller.png" width="40px" height="40px">
               <br><b style="color: #6600FF;">Gameplay</b>
@@ -167,24 +166,26 @@ local developer = {
 </div>
 
 <!-- PROJECTS & FOCUS SECTION -->
+
+# CURRENTLY WORKING ON
+
 <div align="center">
-  <h1>CURRENTLY WORKING ON</h1>
   <hr>
   
-  <h2>NEVERLIGHT: PROTOCOL 7</h2>
+  # NEVERLIGHT: PROTOCOL 7
   
   <hr>
   
-  <p>An ambitious FiveM project featuring cutting-edge script optimization and immersive gameplay mechanics.</p>
+  An ambitious FiveM project featuring cutting-edge script optimization and immersive gameplay mechanics.
 </div>
 
-<h1>💻 DEVELOPMENT FOCUS</h1>
+# 💻 DEVELOPMENT FOCUS
 
 <hr>
 
-<p>Crafting advanced asynchronous patterns for FiveM servers to enhance performance without sacrificing player experience.</p>
+Crafting advanced asynchronous patterns for FiveM servers to enhance performance without sacrificing player experience.
 
-<p>Specializing in memory-efficient solutions and optimized Lua scripts that prioritize server stability.</p>
+Specializing in memory-efficient solutions and optimized Lua scripts that prioritize server stability.
 
 <!-- CONNECT SECTION -->
 <div align="center" style="margin-top: 40px;">
@@ -202,6 +203,8 @@ local developer = {
   </div>
 </div>
 
+
+
 <!-- PROFILE VIEWS WITH ANIMATIONS -->
 <div align="center" style="margin-top: 20px; margin-bottom: 40px;">
   <img src="https://komarev.com/ghpvc/?username=zinvera&style=for-the-badge&color=6600FF" alt="Profile Views" />
@@ -210,18 +213,4 @@ local developer = {
 <!-- FOOTER WAVE WITH QUOTE -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0088,100:6600ff&height=120&section=footer" width="100%" />
-</div>`
-
-  return (
-    <div className="bg-slate-950 text-slate-200 p-6 rounded-lg font-mono text-sm overflow-auto">
-      <div className="mb-4 flex items-center justify-between">
-        <h2 className="text-xl font-bold text-violet-400">GitHub Profile README.md</h2>
-        <button className="bg-violet-600 hover:bg-violet-700 text-white px-3 py-1 rounded text-sm">
-          Copy Markdown
-        </button>
-      </div>
-      <pre className="whitespace-pre-wrap">{readmeContent}</pre>
-    </div>
-  )
-}
-
+</div>
