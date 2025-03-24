@@ -60,10 +60,6 @@ local developer = {
     email = "zinverazin@gmail.com"
 }
 
--- Zinvera's development philosophy
-function developer:philosophy()
-    return "Craft clean code. Build immersive worlds."
-end
 ```
 
 <!-- GITHUB STATISTICS WITH ANIMATIONS -->
@@ -170,47 +166,30 @@ end
 </div>
 
 <!-- PROJECTS & FOCUS SECTION -->
+
+## <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="30px" height="30px"> CURRENTLY WORKING ON
+
 <div align="center">
-  <div style="display: flex; flex-direction: column; max-width: 1200px; margin: 0 auto;">
-    <!-- PROJECT CARD -->
-    <div style="background: linear-gradient(135deg, rgba(242,108,44,0.15) 0%, rgba(102,0,255,0.15) 100%); 
-                margin: 15px; padding: 25px; border-radius: 15px; 
-                border: 1px solid rgba(242,108,44,0.3);
-                box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
-      <div style="display: flex; align-items: center; margin-bottom: 15px;">
-        <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="36px" height="36px" style="margin-right: 10px;">
-        <span style="font-size: 1.6em; font-weight: 700; color: #F26C2C; text-shadow: 0px 0px 10px rgba(242,108,44,0.3);">CURRENTLY WORKING ON</span>
-      </div>
-      
-      <div style="background-color: rgba(0,0,0,0.3); padding: 20px; border-radius: 10px; margin-bottom: 15px;
-                  border: 1px solid rgba(242,108,44,0.2);">
-        <span style="font-size: 2em; font-weight: 800; color: #FFFFFF; text-shadow: 0px 0px 10px rgba(102,0,255,0.5);">
-          NEVERLIGHT: PROTOCOL 7
-        </span>
-      </div>
-      
-      <p style="font-size: 1.2em; line-height: 1.6; text-align: center; color: #E0E0E0;">
-        An ambitious FiveM project featuring cutting-edge script optimization and immersive gameplay mechanics.
-      </p>
-    </div>
-    
-    <!-- DEVELOPMENT FOCUS CARD -->
-    <div style="background: linear-gradient(135deg, rgba(102,0,255,0.15) 0%, rgba(138,43,226,0.15) 100%); 
-                margin: 15px; padding: 25px; border-radius: 15px; 
-                border: 1px solid rgba(102,0,255,0.3);
-                box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
-      <div style="display: flex; align-items: center; margin-bottom: 15px;">
-        <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="36px" height="36px" style="margin-right: 10px;">
-        <span style="font-size: 1.6em; font-weight: 700; color: #8A2BE2; text-shadow: 0px 0px 10px rgba(102,0,255,0.3);">DEVELOPMENT FOCUS</span>
-      </div>
-      
-      <p style="font-size: 1.2em; line-height: 1.6; text-align: center; color: #E0E0E0;">
-        Crafting advanced asynchronous patterns for FiveM servers to enhance performance without sacrificing player experience. 
-        <br><br>
-        <span style="color: #A980F5; font-weight: 600;">Specializing in memory-efficient solutions and optimized Lua scripts that prioritize server stability.</span>
-      </p>
-    </div>
+  <div style="background-color: rgba(0,0,0,0.3); padding: 20px; border-radius: 10px; margin: 15px auto; max-width: 80%; border: 1px solid #F26C2C;">
+    <h2 style="font-size: 2em; color: #FFFFFF; text-shadow: 0 0 10px #6600FF;">
+      NEVERLIGHT: PROTOCOL 7
+    </h2>
   </div>
+  
+  <p>
+    An ambitious FiveM project featuring cutting-edge script optimization and immersive gameplay mechanics.
+  </p>
+</div>
+
+## <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="30px" height="30px"> DEVELOPMENT FOCUS
+
+<div align="center">
+  <p>
+    Crafting advanced asynchronous patterns for FiveM servers to enhance performance without sacrificing player experience.
+  </p>
+  <p>
+    <b>Specializing in memory-efficient solutions and optimized Lua scripts that prioritize server stability.</b>
+  </p>
 </div>
 
 <!-- CONNECT SECTION -->
