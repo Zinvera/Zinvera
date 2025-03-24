@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0088,100:6600ff&height=220&section=header&text=Zinvera&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FiveM%20Development%20Specialist&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
-<!-- INTRODUCTION -->
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6600FF&center=true&vCenter=true&random=false&width=600&lines=German+FiveM+Developer;Lua+Scripting+Virtuoso;Advanced+Metatable+Specialist;High-Performance+Engineer;AI+Prompt+Architect" alt="Typing SVG" /></a>
-</div>
-
 <!-- STATUS BADGES -->
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/STATUS-NOT%20AVAILABLE-critical?style=for-the-badge&labelColor=3a0088&color=6600ff"></a>
@@ -15,6 +10,10 @@
   <a href="#"><img src="https://img.shields.io/badge/EXPERIENCE-1+%20YEAR-yellow?style=for-the-badge&labelColor=3a0088&color=6600ff"></a>
 </div>
 
+<!-- INTRODUCTION -->
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6600FF&center=true&vCenter=true&random=false&width=600&lines=German+FiveM+Developer;Lua+Scripting+Virtuoso;Advanced+Metatable+Specialist;High-Performance+Engineer;AI+Prompt+Architect" alt="Typing SVG" /></a>
+</div>
 
 <!-- BANNER -->
 <div align="center">
@@ -145,51 +144,31 @@ end
 
 <div align="center">
   <h3>NEVERLIGHT: PROTOCOL 7</h3>
-  
   <div align="center">
     <img src="https://img.shields.io/badge/-FiveM%20Project-6600ff?style=for-the-badge" alt="FiveM">
     <img src="https://img.shields.io/badge/-Lua%20Powered-6600ff?style=for-the-badge" alt="Lua">
   </div>
-  
-  <br>
-  
-  <p align="center">
-    An ambitious FiveM project featuring next-generation performance optimization and immersive gameplay mechanics.
-  </p>
-  
-  <p align="center">
-    Built with advanced asynchronous patterns and memory-efficient solutions that prioritize both server stability and player experience.
-  </p>
-  
-  <br>
+  <p align="center">An ambitious FiveM project featuring next-generation performance optimization and immersive gameplay mechanics. Built with advanced asynchronous patterns and memory-efficient solutions that prioritize both server stability and player experience.</p>
 </div>
 
 <!-- DEVELOPER PHILOSOPHY -->
 <h2>Developer Philosophy</h2>
 
 <div align="center">
-  <br>
-  <p align="center">
-    <i>
-      "I believe the most elegant code finds the perfect balance between performance and readability, creating solutions that not only work efficiently but are also maintainable and adaptable for the future."
-    </i>
-  </p>
-  <br>
+  <p align="center"><i>"I believe the most elegant code finds the perfect balance between performance and readability, creating solutions that not only work efficiently but are also maintainable and adaptable for the future."</i></p>
 </div>
 
 <!-- CONNECT SECTION -->
 <h2>Connect with Me</h2>
 
 <div align="center">
-  <br>
   <a href="mailto:zinverazin@gmail.com">
     <img src="https://img.shields.io/badge/Email-zinverazin%40gmail.com-6600FF?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <br><br>
+  <br>
   <a href="https://github.com/zinvera">
     <img src="https://img.shields.io/badge/GitHub-zinvera-6600FF?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <br><br>
 </div>
 
 <!-- PROFILE VIEWS -->
