@@ -169,39 +169,51 @@ end
   </div>
 </div>
 
-<!-- CURRENT PROJECT HIGHLIGHT -->
+<!-- PROJECTS & FOCUS SECTION -->
 <div align="center">
-  <br>
-  <div style="background: linear-gradient(90deg, rgba(242,108,44,0.2) 0%, rgba(102,0,255,0.2) 100%); padding: 25px; border-radius: 10px; margin: 20px 0;">
-    <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="30px" height="30px" style="vertical-align: middle;">
-    <span style="font-size: 1.5em; font-weight: bold; margin-left: 10px; vertical-align: middle; color: #6600FF;">Currently Working On</span>
-    <br><br>
-    <div style="display: flex; align-items: center; justify-content: center;">
-      <div style="background-color: rgba(0,0,0,0.3); padding: 15px; border-radius: 10px; display: inline-block;">
-        <span style="font-size: 1.5em; font-weight: bold; color: #F26C2C;">Neverlight: Protocol 7</span>
+  <div style="display: flex; flex-direction: column; max-width: 1200px; margin: 0 auto;">
+    <!-- PROJECT CARD -->
+    <div style="background: linear-gradient(135deg, rgba(242,108,44,0.15) 0%, rgba(102,0,255,0.15) 100%); 
+                margin: 15px; padding: 25px; border-radius: 15px; 
+                border: 1px solid rgba(242,108,44,0.3);
+                box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
+      <div style="display: flex; align-items: center; margin-bottom: 15px;">
+        <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="36px" height="36px" style="margin-right: 10px;">
+        <span style="font-size: 1.6em; font-weight: 700; color: #F26C2C; text-shadow: 0px 0px 10px rgba(242,108,44,0.3);">CURRENTLY WORKING ON</span>
       </div>
+      
+      <div style="background-color: rgba(0,0,0,0.3); padding: 20px; border-radius: 10px; margin-bottom: 15px;
+                  border: 1px solid rgba(242,108,44,0.2);">
+        <span style="font-size: 2em; font-weight: 800; color: #FFFFFF; text-shadow: 0px 0px 10px rgba(102,0,255,0.5);">
+          NEVERLIGHT: PROTOCOL 7
+        </span>
+      </div>
+      
+      <p style="font-size: 1.2em; line-height: 1.6; text-align: center; color: #E0E0E0;">
+        An ambitious FiveM project featuring cutting-edge script optimization and immersive gameplay mechanics.
+      </p>
     </div>
-    <p style="font-size: 1.1em; text-align: center; max-width: 800px; margin: 15px auto 0; color: #f1f1f1;">
-      An ambitious FiveM project featuring cutting-edge script optimization and immersive gameplay mechanics.
-    </p>
+    
+    <!-- DEVELOPMENT FOCUS CARD -->
+    <div style="background: linear-gradient(135deg, rgba(102,0,255,0.15) 0%, rgba(138,43,226,0.15) 100%); 
+                margin: 15px; padding: 25px; border-radius: 15px; 
+                border: 1px solid rgba(102,0,255,0.3);
+                box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
+      <div style="display: flex; align-items: center; margin-bottom: 15px;">
+        <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="36px" height="36px" style="margin-right: 10px;">
+        <span style="font-size: 1.6em; font-weight: 700; color: #8A2BE2; text-shadow: 0px 0px 10px rgba(102,0,255,0.3);">DEVELOPMENT FOCUS</span>
+      </div>
+      
+      <p style="font-size: 1.2em; line-height: 1.6; text-align: center; color: #E0E0E0;">
+        Crafting advanced asynchronous patterns for FiveM servers to enhance performance without sacrificing player experience. 
+        <br><br>
+        <span style="color: #A980F5; font-weight: 600;">Specializing in memory-efficient solutions and optimized Lua scripts that prioritize server stability.</span>
+      </p>
+    </div>
   </div>
 </div>
 
-<!-- ENHANCED DEVELOPMENT FOCUS -->
-<div align="center">
-  <br>
-  <div style="background: linear-gradient(90deg, rgba(102,0,255,0.2) 0%, rgba(138,43,226,0.2) 100%); padding: 25px; border-radius: 10px; margin: 10px 0;">
-    <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="30px" height="30px" style="vertical-align: middle;">
-    <span style="font-size: 1.5em; font-weight: bold; margin-left: 10px; vertical-align: middle; color: #6600FF;">Current Development Focus</span>
-    <br><br>
-    <p style="font-size: 1.1em; text-align: center; max-width: 800px; margin: 0 auto; color: #f1f1f1;">
-      Crafting advanced asynchronous patterns for FiveM servers to enhance performance without sacrificing player experience. 
-      Specializing in memory-efficient solutions and optimized Lua scripts that prioritize server stability.
-    </p>
-  </div>
-</div>
-
-<!-- ENHANCED CONTACT SECTION WITH ANIMATED BORDERS -->
+<!-- CONNECT SECTION -->
 <div align="center" style="margin-top: 40px;">
   <div style="border: 2px solid; border-image-slice: 1; border-image-source: linear-gradient(to right, #3a0088, #6600ff); border-radius: 15px; padding: 20px; max-width: 600px; margin: 0 auto;">
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px" height="30px" style="vertical-align: middle;">
@@ -220,7 +232,7 @@ end
 <!-- ENHANCED PHILOSOPHY SECTION -->
 <div align="center" style="margin-top: 40px; margin-bottom: 40px;">
   <div style="background: linear-gradient(90deg, rgba(58,0,136,0.2) 0%, rgba(102,0,255,0.2) 100%); padding: 30px; border-radius: 10px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6600FF&center=true&vCenter=true&random=false&width=600&lines=Craft+clean+code.+Build+immersive+worlds." alt="Development Philosophy" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6600FF&center=true&vCenter=true&random=false&width=600&lines=%E2%80%9CCraft+clean+code.+Build+immersive+worlds.%E2%80%9D" alt="Development Philosophy" />
   </div>
 </div>
 
