@@ -150,33 +150,45 @@ end
     <img src="https://img.shields.io/badge/-Lua%20Powered-6600ff?style=for-the-badge" alt="Lua">
   </div>
   
+  <br>
+  
   <p align="center">
-    An ambitious FiveM project featuring next-generation performance optimization and immersive gameplay mechanics. Built with advanced asynchronous patterns and memory-efficient solutions that prioritize both server stability and player experience.
+    An ambitious FiveM project featuring next-generation performance optimization and immersive gameplay mechanics.
   </p>
+  
+  <p align="center">
+    Built with advanced asynchronous patterns and memory-efficient solutions that prioritize both server stability and player experience.
+  </p>
+  
+  <br>
 </div>
 
 <!-- DEVELOPER PHILOSOPHY -->
 <h2>Developer Philosophy</h2>
 
 <div align="center">
+  <br>
   <p align="center">
     <i>
       "I believe the most elegant code finds the perfect balance between performance and readability, creating solutions that not only work efficiently but are also maintainable and adaptable for the future."
     </i>
   </p>
+  <br>
 </div>
 
 <!-- CONNECT SECTION -->
 <h2>Connect with Me</h2>
 
 <div align="center">
+  <br>
   <a href="mailto:zinverazin@gmail.com">
     <img src="https://img.shields.io/badge/Email-zinverazin%40gmail.com-6600FF?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <br>
+  <br><br>
   <a href="https://github.com/zinvera">
     <img src="https://img.shields.io/badge/GitHub-zinvera-6600FF?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
+  <br><br>
 </div>
 
 <!-- PROFILE VIEWS -->
