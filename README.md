@@ -20,11 +20,10 @@
   <img src="https://raw.githubusercontent.com/zinvera/zinvera/main/terminal-gh.gif" width="750px" alt="Terminal GIF" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(102, 0, 255, 0.4);">
 </div>
 
-<!-- ABOUT ME SECTION WITH ANIMATED ICON -->
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
-  About Me
-</h2>
+<!-- ⚡ ABOUT ME ⚡ -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6600FF&center=true&vCenter=true&random=false&width=600&lines=German+FiveM+Developer;Technical+Innovator;Creative+Problem+Solver" alt="Who I Am" />
+</div>
 
 ```lua
 -- Zinvera's Developer Profile
@@ -56,13 +55,6 @@ local zinvera = {
         frameworks = {"ESX", "QBCore", "Custom Solutions"},
         tools = {"VS Code", "Git", "Performance Profiling"},
         design = {"HTML5", "CSS", "UI Libraries"}
-    },
-    
-    -- Flagship Project
-    current_project = {
-        name = "Neverlight: Protocol 7",
-        focus = "Next-generation performance optimization",
-        status = "In active development"
     },
     
     -- Connect
@@ -123,11 +115,17 @@ end
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zinvera&bg_color=0D1117&color=6600FF&line=8A2BE2&point=FFFFFF&hide_border=true" width="98%" alt="GitHub Activity Graph" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(102, 0, 255, 0.3);" />
 </div>
 
-<!-- DEVELOPMENT SPECIALTIES WITH ICON CARDS -->
-<h2>
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px">
-  Development Specialties
-</h2>
+<!-- 💻 SPECIALIZATIONS 💻 -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6600FF&center=true&vCenter=true&random=false&width=600&lines=Development+Specialties" alt="Specialties" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-PERFORMANCE%20ENGINEERING-6600ff?style=for-the-badge" alt="Performance Engineering">
+  <img src="https://img.shields.io/badge/-SYSTEM%20ARCHITECTURE-6600ff?style=for-the-badge" alt="System Architecture">
+  <img src="https://img.shields.io/badge/-UI%20DESIGN-6600ff?style=for-the-badge" alt="UI Design">
+  <img src="https://img.shields.io/badge/-GAMEPLAY%20INNOVATION-6600ff?style=for-the-badge" alt="Gameplay Innovation">
+</div>
 
 <div align="center">
   <table>
@@ -159,36 +157,57 @@ end
 </div>
 
 <!-- CURRENT PROJECT SPOTLIGHT WITH ANIMATED BORDER -->
-<!-- CURRENT PROJECT SPOTLIGHT -->
+<!-- 🌟 CURRENT PROJECT 🌟 -->
 <div align="center">
-  <h2>🚀 NEVERLIGHT: PROTOCOL 7</h2>
-  
-  <div align="center">
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-success?style=for-the-badge&color=6600ff" alt="Status">
-    <img src="https://img.shields.io/badge/VERSION-0.7.2-blue?style=for-the-badge&color=6600ff" alt="Version">
-    <img src="https://img.shields.io/badge/MODULES-15+-yellow?style=for-the-badge&color=6600ff" alt="Modules">
-  </div>
-  
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=1000&color=6600FF&center=true&vCenter=true&random=false&width=600&lines=CURRENT+PROJECT;NEVERLIGHT:+PROTOCOL+7" alt="Current Project" />
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-FiveM%20Project-6600ff?style=for-the-badge" alt="FiveM">
+  <img src="https://img.shields.io/badge/-Lua%20Powered-6600ff?style=for-the-badge" alt="Lua">
+</div>
+
+<div align="center">
   <p align="center">
-    An ambitious FiveM project focused on next-generation performance optimization and immersive gameplay mechanics. Featuring advanced asynchronous patterns and memory-efficient solutions that prioritize both server stability and player experience.
+    ▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️
+  </p>
+</div>
+
+<div align="center">
+  <p align="center">
+    An ambitious FiveM project featuring next-generation performance optimization and immersive gameplay mechanics. Built with advanced asynchronous patterns and memory-efficient solutions that prioritize both server stability and player experience.
+  </p>
+</div>
+
+<div align="center">
+  <p align="center">
+    ▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️
   </p>
 </div>
 
 <!-- CONNECT SECTION WITH ANIMATED PULSE -->
-<!-- CONNECT SECTION -->
+<!-- 📬 CONNECT WITH ME 📬 -->
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px" height="30px">
-    Connect with Me
-  </h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6600FF&center=true&vCenter=true&random=false&width=600&lines=Connect+With+Me" alt="Connect" />
+</div>
 
-  <a href="mailto:zinverazin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zinverazin%40gmail.com-6600FF?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <br>
-  <a href="https://github.com/zinvera">
-    <img src="https://img.shields.io/badge/GitHub-zinvera-6600FF?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
+<div align="center">
+  <p>
+    <a href="mailto:zinverazin@gmail.com">
+      <img src="https://img.shields.io/badge/Email-zinverazin%40gmail.com-6600FF?style=for-the-badge&logo=gmail" alt="Email" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/zinvera">
+      <img src="https://img.shields.io/badge/GitHub-zinvera-6600FF?style=for-the-badge&logo=github" alt="GitHub" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" height="60">
 </div>
 
 <!-- PROFILE VIEWS WITH ANIMATION -->
@@ -196,20 +215,33 @@ end
   <img src="https://komarev.com/ghpvc/?username=zinvera&style=for-the-badge&color=6600FF" alt="Profile Views" />
 </div>
 
-<!-- DIVIDER -->
+<!-- ✨ DEVELOPER PHILOSOPHY ✨ -->
 <div align="center">
-  <hr>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6600FF&center=true&vCenter=true&random=false&width=600&lines=Developer+Philosophy" alt="Philosophy" />
 </div>
 
-<!-- DEVELOPER PHILOSOPHY QUOTE -->
 <div align="center">
-  <i>
-    "I believe the most elegant code finds the perfect balance between performance and readability, creating solutions that not only work efficiently but are also maintainable and adaptable for the future."
-  </i>
+  <div align="center">
+    <img src="https://img.shields.io/badge/-%E2%9C%A8-6600ff?style=flat-square" />
+    <img src="https://img.shields.io/badge/-%E2%9C%A8-6600ff?style=flat-square" />
+    <img src="https://img.shields.io/badge/-%E2%9C%A8-6600ff?style=flat-square" />
+  </div>
+  
+  <p align="center">
+    <i>
+      "I believe the most elegant code finds the perfect balance between performance and readability, creating solutions that not only work efficiently but are also maintainable and adaptable for the future."
+    </i>
+  </p>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/-%E2%9C%A8-6600ff?style=flat-square" />
+    <img src="https://img.shields.io/badge/-%E2%9C%A8-6600ff?style=flat-square" />
+    <img src="https://img.shields.io/badge/-%E2%9C%A8-6600ff?style=flat-square" />
+  </div>
 </div>
 
-<!-- FOOTER WAVE WITH ANIMATED GRADIENT -->
-<div align="center" style="margin-top: 40px;">
+<!-- FOOTER WAVE -->
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0088,100:6600ff&height=150&section=footer&text=&fontSize=0" width="100%" />
 </div>
 
