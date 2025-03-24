@@ -99,11 +99,8 @@ end
 <h2>GitHub Statistics</h2>
 
 <div align="center">
-  <!-- GitHub Stats Card -->
+  <!-- Only keeping the GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=zinvera&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=6600FF&icon_color=6600FF&text_color=FFFFFF" height="180em" alt="Zinvera's GitHub Stats" />
-  
-  <!-- DenverCoder1's GitHub streak stats (more reliable) -->
-  <img src="https://streak-stats.demolab.com/?user=zinvera&theme=midnight-purple&hide_border=true&background=0D1117&ring=6600FF&fire=8A2BE2&currStreakLabel=6600FF" height="180em" alt="Zinvera's GitHub Streak" />
 </div>
 
 <div align="center">
