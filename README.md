@@ -100,7 +100,9 @@ end
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zinvera&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=6600FF&icon_color=6600FF&text_color=FFFFFF" height="180em" alt="Zinvera's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zinvera&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=6600FF&fire=8A2BE2&currStreakLabel=6600FF" height="180em" alt="Zinvera's GitHub Streak" />
+  
+  <!-- Updated GitHub Streak Stats with more reliable configuration -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zinvera&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6600FF&ring=6600FF&fire=8A2BE2&currStreakLabel=6600FF" height="180em" alt="Zinvera's GitHub Streak" />
 </div>
 
 <div align="center">
