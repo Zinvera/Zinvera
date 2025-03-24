@@ -167,30 +167,25 @@ local developer = {
 
 <!-- PROJECTS & FOCUS SECTION -->
 
-## <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="30px" height="30px"> CURRENTLY WORKING ON
+# CURRENTLY WORKING ON
 
 <div align="center">
-  <div style="background-color: rgba(0,0,0,0.3); padding: 20px; border-radius: 10px; margin: 15px auto; max-width: 80%; border: 1px solid #F26C2C;">
-    <h2 style="font-size: 2em; color: #FFFFFF; text-shadow: 0 0 10px #6600FF;">
-      NEVERLIGHT: PROTOCOL 7
-    </h2>
-  </div>
+  <hr>
   
-  <p>
-    An ambitious FiveM project featuring cutting-edge script optimization and immersive gameplay mechanics.
-  </p>
+  # NEVERLIGHT: PROTOCOL 7
+  
+  <hr>
+  
+  An ambitious FiveM project featuring cutting-edge script optimization and immersive gameplay mechanics.
 </div>
 
-## <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="30px" height="30px"> DEVELOPMENT FOCUS
+# 💻 DEVELOPMENT FOCUS
 
-<div align="center">
-  <p>
-    Crafting advanced asynchronous patterns for FiveM servers to enhance performance without sacrificing player experience.
-  </p>
-  <p>
-    <b>Specializing in memory-efficient solutions and optimized Lua scripts that prioritize server stability.</b>
-  </p>
-</div>
+<hr>
+
+Crafting advanced asynchronous patterns for FiveM servers to enhance performance without sacrificing player experience.
+
+Specializing in memory-efficient solutions and optimized Lua scripts that prioritize server stability.
 
 <!-- CONNECT SECTION -->
 <div align="center" style="margin-top: 40px;">
@@ -222,5 +217,5 @@ local developer = {
 
 <!-- FOOTER WAVE WITH QUOTE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0088,100:6600ff&height=120&section=footer&text=FiveM%20Development%20Excellence&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=80" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0088,100:6600ff&height=120&section=footer" width="100%" />
 </div>
