@@ -5,9 +5,9 @@
 
 <!-- DYNAMIC BADGE SECTION -->
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-success?style=for-the-badge&labelColor=3a0088&color=6600ff"></a>
+  <a href="#"><img src="https://img.shields.io/badge/STATUS-NOT%20AVAILABLE-critical?style=for-the-badge&labelColor=3a0088&color=6600ff"></a>
   <a href="#"><img src="https://img.shields.io/badge/LOCATION-GERMANY-informational?style=for-the-badge&labelColor=3a0088&color=6600ff&logoColor=white&logo=googlemap"></a>
-  <a href="#"><img src="https://img.shields.io/badge/EXPERIENCE-5+%20YEARS-yellow?style=for-the-badge&labelColor=3a0088&color=6600ff"></a>
+  <a href="#"><img src="https://img.shields.io/badge/EXPERIENCE-1+%20YEAR-yellow?style=for-the-badge&labelColor=3a0088&color=6600ff"></a>
 </div>
 
 <!-- ANIMATED INTRODUCTION -->
@@ -85,32 +85,24 @@ end
   <table>
     <tr>
       <td align="center" width="135">
-        <div style="background: linear-gradient(145deg, #3a0088, #6600ff); border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(102, 0, 255, 0.3);">
-          <img src="https://img.icons8.com/color/48/000000/lua-language.png" width="50" height="50" alt="Lua" />
-          <br><b style="color: #ffffff; font-size: 16px;">Lua</b>
-          <br><small style="color: #f0f0f0;">Advanced</small>
-        </div>
+        <img src="https://img.icons8.com/color/48/000000/lua-language.png" width="50" height="50" alt="Lua" />
+        <br><b>Lua</b>
+        <br><small>Advanced</small>
       </td>
       <td align="center" width="135">
-        <div style="background: linear-gradient(145deg, #3a0088, #6600ff); border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(102, 0, 255, 0.3);">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" />
-          <br><b style="color: #ffffff; font-size: 16px;">JavaScript</b>
-          <br><small style="color: #f0f0f0;">Proficient</small>
-        </div>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" />
+        <br><b>JavaScript</b>
+        <br><small>Proficient</small>
       </td>
       <td align="center" width="135">
-        <div style="background: linear-gradient(145deg, #3a0088, #6600ff); border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(102, 0, 255, 0.3);">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML" />
-          <br><b style="color: #ffffff; font-size: 16px;">HTML5</b>
-          <br><small style="color: #f0f0f0;">Proficient</small>
-        </div>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML" />
+        <br><b>HTML5</b>
+        <br><small>Proficient</small>
       </td>
       <td align="center" width="135">
-        <div style="background: linear-gradient(145deg, #3a0088, #6600ff); border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(102, 0, 255, 0.3);">
-          <img src="https://img.icons8.com/color/48/000000/fivem.png" width="50" height="50" alt="FiveM" />
-          <br><b style="color: #ffffff; font-size: 16px;">FiveM</b>
-          <br><small style="color: #f0f0f0;">Expert</small>
-        </div>
+        <img src="https://img.icons8.com/color/48/000000/fivem.png" width="50" height="50" alt="FiveM" />
+        <br><b>FiveM</b>
+        <br><small>Expert</small>
       </td>
     </tr>
   </table>
@@ -141,116 +133,79 @@ end
   <table>
     <tr>
       <td align="center" width="25%">
-        <div style="background: rgba(102, 0, 255, 0.1); border-radius: 15px; padding: 20px; margin: 10px; transition: all 0.3s ease;">
-          <img src="https://img.icons8.com/fluency/64/000000/speed.png" width="48px" height="48px">
-          <br><b style="color: #6600FF; font-size: 18px;">Performance Engineering</b>
-          <p style="font-size: 14px; color: #ccc;">Advanced optimization techniques for server stability & resource efficiency</p>
-        </div>
+        <img src="https://img.icons8.com/fluency/64/000000/speed.png" width="48" height="48">
+        <br><b>Performance Engineering</b>
+        <br>Advanced optimization techniques for server stability & resource efficiency
       </td>
       <td align="center" width="25%">
-        <div style="background: rgba(102, 0, 255, 0.1); border-radius: 15px; padding: 20px; margin: 10px; transition: all 0.3s ease;">
-          <img src="https://img.icons8.com/fluency/64/000000/dashboard.png" width="48px" height="48px">
-          <br><b style="color: #6600FF; font-size: 18px;">Immersive UI Architecture</b>
-          <p style="font-size: 14px; color: #ccc;">Context-aware interfaces with responsive design principles</p>
-        </div>
+        <img src="https://img.icons8.com/fluency/64/000000/dashboard.png" width="48" height="48">
+        <br><b>Immersive UI Architecture</b>
+        <br>Context-aware interfaces with responsive design principles
       </td>
     </tr>
     <tr>
       <td align="center" width="25%">
-        <div style="background: rgba(102, 0, 255, 0.1); border-radius: 15px; padding: 20px; margin: 10px; transition: all 0.3s ease;">
-          <img src="https://img.icons8.com/fluency/64/000000/code.png" width="48px" height="48px">
-          <br><b style="color: #6600FF; font-size: 18px;">System Architecture</b>
-          <p style="font-size: 14px; color: #ccc;">Scalable codebases with performance-minded structure & documentation</p>
-        </div>
+        <img src="https://img.icons8.com/fluency/64/000000/code.png" width="48" height="48">
+        <br><b>System Architecture</b>
+        <br>Scalable codebases with performance-minded structure & documentation
       </td>
       <td align="center" width="25%">
-        <div style="background: rgba(102, 0, 255, 0.1); border-radius: 15px; padding: 20px; margin: 10px; transition: all 0.3s ease;">
-          <img src="https://img.icons8.com/fluency/64/000000/controller.png" width="48px" height="48px">
-          <br><b style="color: #6600FF; font-size: 18px;">Gameplay Innovation</b>
-          <p style="font-size: 14px; color: #ccc;">Player-centered mechanics with immersive roleplay integration</p>
-        </div>
+        <img src="https://img.icons8.com/fluency/64/000000/controller.png" width="48" height="48">
+        <br><b>Gameplay Innovation</b>
+        <br>Player-centered mechanics with immersive roleplay integration
       </td>
     </tr>
   </table>
 </div>
 
 <!-- CURRENT PROJECT SPOTLIGHT WITH ANIMATED BORDER -->
-<div align="center" style="margin-top: 40px; margin-bottom: 40px; position: relative;">
-  <div style="background: linear-gradient(145deg, #13151a, #1c1f29); border-radius: 20px; padding: 30px; max-width: 85%; margin: 0 auto; position: relative; overflow: hidden; box-shadow: 0 8px 32px rgba(102, 0, 255, 0.3);">
-    <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: linear-gradient(90deg, transparent, #6600ff, transparent); background-size: 200% 100%; animation: borderAnimation 3s linear infinite; z-index: 0; opacity: 0.3;"></div>
-    
-    <div style="position: relative; z-index: 1;">
-      <h2 style="color: #6600ff; font-size: 28px; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 2px;">NEVERLIGHT: PROTOCOL 7</h2>
-      
-      <p style="color: #f0f0f0; font-size: 16px; line-height: 1.6; margin-bottom: 30px;">
-        An ambitious FiveM project focused on next-generation performance optimization and immersive gameplay mechanics. Featuring advanced asynchronous patterns and memory-efficient solutions that prioritize both server stability and player experience.
-      </p>
-      
-      <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-        <div style="background: rgba(102, 0, 255, 0.2); border-radius: 10px; padding: 15px; text-align: center; width: 120px;">
-          <img src="https://img.icons8.com/fluency/48/000000/clock.png" width="32px" height="32px">
-          <p style="color: #d0d0d0; font-size: 14px; margin-top: 10px;">Active Development</p>
-        </div>
-        
-        <div style="background: rgba(102, 0, 255, 0.2); border-radius: 10px; padding: 15px; text-align: center; width: 120px;">
-          <img src="https://img.icons8.com/fluency/48/000000/code-fork.png" width="32px" height="32px">
-          <p style="color: #d0d0d0; font-size: 14px; margin-top: 10px;">Version 0.7.2</p>
-        </div>
-        
-        <div style="background: rgba(102, 0, 255, 0.2); border-radius: 10px; padding: 15px; text-align: center; width: 120px;">
-          <img src="https://img.icons8.com/fluency/48/000000/module.png" width="32px" height="32px">
-          <p style="color: #d0d0d0; font-size: 14px; margin-top: 10px;">15+ Modules</p>
-        </div>
-      </div>
-    </div>
+<!-- CURRENT PROJECT SPOTLIGHT -->
+<div align="center">
+  <h2>🚀 NEVERLIGHT: PROTOCOL 7</h2>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-success?style=for-the-badge&color=6600ff" alt="Status">
+    <img src="https://img.shields.io/badge/VERSION-0.7.2-blue?style=for-the-badge&color=6600ff" alt="Version">
+    <img src="https://img.shields.io/badge/MODULES-15+-yellow?style=for-the-badge&color=6600ff" alt="Modules">
   </div>
+  
+  <p align="center">
+    An ambitious FiveM project focused on next-generation performance optimization and immersive gameplay mechanics. Featuring advanced asynchronous patterns and memory-efficient solutions that prioritize both server stability and player experience.
+  </p>
 </div>
 
 <!-- CONNECT SECTION WITH ANIMATED PULSE -->
-<div align="center" style="margin-top: 40px; margin-bottom: 40px;">
-  <div style="background: linear-gradient(145deg, #13151a, #1c1f29); border-radius: 20px; padding: 30px; max-width: 600px; margin: 0 auto; position: relative; overflow: hidden; box-shadow: 0 8px 32px rgba(102, 0, 255, 0.3);">
-    <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: radial-gradient(circle, #6600ff 0%, transparent 70%); background-size: 200% 200%; animation: pulseAnimation 4s ease-in-out infinite; z-index: 0; opacity: 0.15;"></div>
-    
-    <div style="position: relative; z-index: 1;">
-      <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
-        <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px" height="40px" style="margin-right: 15px;">
-        <span style="font-size: 24px; font-weight: bold; color: #f0f0f0;">Connect with Me</span>
-      </div>
-      
-      <div style="display: flex; flex-direction: column; gap: 15px; align-items: center;">
-        <a href="mailto:zinverazin@gmail.com" style="text-decoration: none;">
-          <div style="background: rgba(102, 0, 255, 0.2); border-radius: 10px; padding: 12px 20px; display: flex; align-items: center; width: 280px; transition: all 0.3s ease;">
-            <img src="https://img.icons8.com/fluency/48/000000/mail.png" width="24px" height="24px" style="margin-right: 12px;">
-            <span style="color: #f0f0f0; font-size: 16px;">zinverazin@gmail.com</span>
-          </div>
-        </a>
-        
-        <a href="https://github.com/zinvera" style="text-decoration: none;">
-          <div style="background: rgba(102, 0, 255, 0.2); border-radius: 10px; padding: 12px 20px; display: flex; align-items: center; width: 280px; transition: all 0.3s ease;">
-            <img src="https://img.icons8.com/fluency/48/000000/github.png" width="24px" height="24px" style="margin-right: 12px;">
-            <span style="color: #f0f0f0; font-size: 16px;">github.com/zinvera</span>
-          </div>
-        </a>
-      </div>
-    </div>
-  </div>
+<!-- CONNECT SECTION -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px" height="30px">
+    Connect with Me
+  </h2>
+
+  <a href="mailto:zinverazin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zinverazin%40gmail.com-6600FF?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <br>
+  <a href="https://github.com/zinvera">
+    <img src="https://img.shields.io/badge/GitHub-zinvera-6600FF?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
 </div>
 
 <!-- PROFILE VIEWS WITH ANIMATION -->
-<div align="center" style="margin-top: 30px; margin-bottom: 40px;">
-  <img src="https://komarev.com/ghpvc/?username=zinvera&style=for-the-badge&color=6600FF" alt="Profile Views" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(102, 0, 255, 0.3);" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zinvera&style=for-the-badge&color=6600FF" alt="Profile Views" />
 </div>
 
-<!-- GRADIENT DIVIDER -->
+<!-- DIVIDER -->
 <div align="center">
-  <div style="height: 3px; width: 100%; background: linear-gradient(90deg, transparent, #6600ff, transparent);"></div>
+  <hr>
 </div>
 
 <!-- DEVELOPER PHILOSOPHY QUOTE -->
-<div align="center" style="margin: 30px 0; padding: 20px; max-width: 800px; margin-left: auto; margin-right: auto;">
-  <p style="font-style: italic; font-size: 18px; color: #a0a0a0;">
+<div align="center">
+  <i>
     "I believe the most elegant code finds the perfect balance between performance and readability, creating solutions that not only work efficiently but are also maintainable and adaptable for the future."
-  </p>
+  </i>
 </div>
 
 <!-- FOOTER WAVE WITH ANIMATED GRADIENT -->
@@ -258,25 +213,4 @@ end
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0088,100:6600ff&height=150&section=footer&text=&fontSize=0" width="100%" />
 </div>
 
-<!-- CSS ANIMATIONS (GitHub markdown doesn't support these, but including for completeness) -->
-<style>
-@keyframes borderAnimation {
-  0% { background-position: 0% 0%; }
-  100% { background-position: 200% 0%; }
-}
-
-@keyframes pulseAnimation {
-  0% { background-position: 0% 0%; }
-  50% { background-position: 100% 100%; }
-  100% { background-position: 0% 0%; }
-}
-
-div[style*="transition"] {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-div[style*="transition"]:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 20px rgba(102, 0, 255, 0.4);
-}
-</style>
+<!-- END OF PROFILE -->
