@@ -203,12 +203,7 @@ Specializing in memory-efficient solutions and optimized Lua scripts that priori
   </div>
 </div>
 
-<!-- ENHANCED PHILOSOPHY SECTION -->
-<div align="center" style="margin-top: 40px; margin-bottom: 40px;">
-  <div style="background: linear-gradient(90deg, rgba(58,0,136,0.2) 0%, rgba(102,0,255,0.2) 100%); padding: 30px; border-radius: 10px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6600FF&center=true&vCenter=true&random=false&width=600&lines=%E2%80%9CCraft+clean+code.+Build+immersive+worlds.%E2%80%9D" alt="Development Philosophy" />
-  </div>
-</div>
+
 
 <!-- PROFILE VIEWS WITH ANIMATIONS -->
 <div align="center" style="margin-top: 20px; margin-bottom: 40px;">
