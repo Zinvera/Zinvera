@@ -25,9 +25,9 @@ Passionate Full-Stack Developer based in Germany. My focus lies in building scal
 
 <div align="center">
 
-| Core | Frontend | Backend | Infrastructure |
+| Languages | Frontend | Backend & ORM | Data & Infra |
 | :--- | :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) <br> ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) <br> ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br> ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) <br> ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) <br> ![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) <br> ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) <br> ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) <br> ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 </div>
 
@@ -40,8 +40,8 @@ Passionate Full-Stack Developer based in Germany. My focus lies in building scal
 
 ### /current_focus
 
-*   **Architecting** scalable backend systems using Node.js and PostgreSQL.
-*   **Developing** responsive frontend interfaces with Next.js and Tailwind.
+*   **Architecting** scalable backend systems using Node.js, Prisma, and SQL.
+*   **Developing** responsive, internationalized (i18n) interfaces with React.
 *   **Optimizing** database queries and studying system design patterns.
 *   **Open Source** contributions and code reviews.
 
@@ -49,9 +49,9 @@ Passionate Full-Stack Developer based in Germany. My focus lies in building scal
 
 | Project | Stack | Type |
 | :--- | :--- | :--- |
-| **SaaS Boilerplate** | `Next.js` `Supabase` `Stripe` | Full-stack production starter kit. |
+| **SaaS Boilerplate** | `Next.js` `Prisma` `MariaDB` | Multi-tenant production starter kit with i18n support. |
 | **API Gateway** | `TypeScript` `Express` `Redis` | Middleware for rate-limiting and caching. |
-| **Inventory System** | `PostgreSQL` `React` `Docker` | Internal tool for asset management. |
+| **Inventory System** | `PostgreSQL` `React` `Docker` | Internal tool for asset management and tracking. |
 
 ---
 
