@@ -1,76 +1,62 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Zinvera+👋;Full-Stack+Developer;Building+Scalable+Systems;AI+%26+Web+Enthusiast" alt="Typing SVG" />
+# Zinvera
 
-### 📍 Germany 🇩🇪
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=A9A9A9&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;System+Architecture;Germany" alt="Typing SVG" />
 
 <p align="center">
   <a href="mailto:zinverazin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zinverazin%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/zinverazin%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/zinvera">
-    <img src="https://img.shields.io/badge/GitHub-@zinvera-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<br/>
-
 </div>
-
-### 👨‍💻 About Me
-
-I am a passionate **Full-Stack Developer** focused on building modern web applications with a touch of AI. I love solving complex problems with clean, scalable code.
-
-- 🔭 I’m currently working on **Next.js Applications & AI Integrations**
-- 🤝 I’m looking to collaborate on **Open Source & System Design Projects**
-- ⚡ Fun fact: I code in **Lua** for fun and **TypeScript** for profit.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### /about
+
+Passionate Full-Stack Developer based in Germany. My focus lies in building scalable web applications, optimizing backend performance, and maintaining clean architecture. I prefer strong typing and modular design over hype-driven development.
+
+### /tech_stack
 
 <div align="center">
 
-| **Frontend** | **Backend & Database** | **Languages** | **Tools** |
-|:---:|:---:|:---:|:---:|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,express" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,ts,lua" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,vscode,github,linux" /></a> |
+| Core | Frontend | Backend | Infrastructure |
+| :--- | :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) <br> ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) <br> ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br> ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 
 </div>
 
----
-
-### 📊 GitHub Analytics
+### /activity
 
 <div align="center">
-  <br/>
-  <a href="https://github.com/zinvera">
-    <img src="https://github-readme-stats.vercel.app/api?username=zinvera&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" height="150" alt="stats" />
-  </a>
-  <a href="https://github.com/zinvera">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinvera&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150" alt="languages" />
-  </a>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zinvera&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="150" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zinvera&show_icons=true&theme=graywhite&hide_border=true&title_color=000000&text_color=333333&icon_color=000000" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinvera&layout=compact&theme=graywhite&hide_border=true&title_color=000000&text_color=333333" height="150" alt="languages" />
 </div>
 
----
+### /current_focus
 
-### 🚀 Key Projects
+*   **Architecting** scalable backend systems using Node.js and PostgreSQL.
+*   **Developing** responsive frontend interfaces with Next.js and Tailwind.
+*   **Optimizing** database queries and studying system design patterns.
+*   **Open Source** contributions and code reviews.
 
-| Project | Stack | Description |
+### /projects
+
+| Project | Stack | Type |
 | :--- | :--- | :--- |
-| 🔐 **Auth System** | `Next.js` `Supabase` | Robust full-stack authentication wrapper with social login support. |
-| 🧠 **AI Wrapper** | `Python` `OpenAI` | A middleware service connecting web apps to LLM APIs efficiently. |
-| 🔍 **Vector DB** | `PostgreSQL` `TS` | Implementation of vector search for semantic data retrieval. |
+| **SaaS Boilerplate** | `Next.js` `Supabase` `Stripe` | Full-stack production starter kit. |
+| **API Gateway** | `TypeScript` `Express` `Redis` | Middleware for rate-limiting and caching. |
+| **Inventory System** | `PostgreSQL` `React` `Docker` | Internal tool for asset management. |
 
 ---
 
 <div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zinvera&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9&area=true&hide_border=true" width="100%" />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=zinvera&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=zinvera&color=grey&style=flat-square&label=VIEWS)
 
 </div>
