@@ -34,16 +34,12 @@ Passionate Full-Stack Developer based in Germany. My focus lies in building scal
 ### /activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zinvera&show_icons=true&theme=graywhite&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&include_all_commits=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinvera&layout=compact&theme=graywhite&hide_border=true&title_color=000000&text_color=333333" height="150" alt="languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zinvera&theme=github" height="150" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinvera&theme=github" height="150" alt="languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zinvera&theme=github" alt="profile summary" />
-</div>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/zinvera?template=classic&base.repositories=1&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FBerlin" alt="metrics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zinvera&theme=github" alt="profile details" />
 </div>
 
 ### /current_focus
